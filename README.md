@@ -55,10 +55,11 @@ ix)Assign the learning rate
 
 x)For ‘N ‘ iterations ,do the following:
         v(i) = w(i)*x(i)
+```
          
         W (i+i)= W(i) + learning_rate*(y(i)-t(i))*x(i)
 
-        
+ ```  
 xi)Plot the error for each iteration 
 
 
