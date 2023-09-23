@@ -24,6 +24,7 @@ Indeed if the neuron output is exactly zero it cannot be assumed that the sample
 
 
 ## ALGORITHM:
+```
 
 Importing the libraries
 
@@ -62,7 +63,7 @@ Plot the error for each iteration
 
 
 Print the accuracy
-
+```
 
  ## PROGRAM:
  ```
