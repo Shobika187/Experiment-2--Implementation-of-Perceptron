@@ -109,9 +109,9 @@ x = df.iloc[:,0:3].values
 x = x[0:100, 0:2]
 y = y[0:100]
 #plot Iris Setosa samples
-plt.scatter(x[:50,0], x[:50,1], color='orange', marker='o', label='Setosa')
+plt.scatter(x[:50,0], x[:50,1], color='black', marker='o', label='Setosa')
 #plot Iris Versicolour samples
-plt.scatter(x[50:100,0], x[50:100,1], color='blue', marker='x', label='Versicolour')
+plt.scatter(x[50:100,0], x[50:100,1], color='grey', marker='x', label='Versicolour')
 #show the legend
 plt.xlabel("Sepal length")
 plt.ylabel("Petal length")
@@ -138,8 +138,8 @@ plt.show()
 ### Dataset:
 ![image](https://github.com/Shobika187/Experiment-2--Implementation-of-Perceptron/assets/94508142/808747ac-7c8c-4bf3-97b4-f0677917f9c2)
 ### Scatter Plot:
+![image](https://github.com/Shobika187/Experiment-2--Implementation-of-Perceptron/assets/94508142/226e0758-22a3-4774-a41a-337560b434ba)
 
-![image](https://github.com/Shobika187/Experiment-2--Implementation-of-Perceptron/assets/94508142/627fe9f0-e2e0-4e09-9f2d-c6d28cba69b9)
 ### Error Plot:
 ![image](https://github.com/Shobika187/Experiment-2--Implementation-of-Perceptron/assets/94508142/e61a6323-5ac5-495a-a0e5-d1f34ec15111)
 
