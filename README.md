@@ -138,7 +138,8 @@ plt.show()
 ### Dataset:
 ![image](https://github.com/Shobika187/Experiment-2--Implementation-of-Perceptron/assets/94508142/808747ac-7c8c-4bf3-97b4-f0677917f9c2)
 ### Scatter Plot:
-![image](https://github.com/Shobika187/Experiment-2--Implementation-of-Perceptron/assets/94508142/226e0758-22a3-4774-a41a-337560b434ba)
+![image](https://github.com/Shobika187/Experiment-2--Implementation-of-Perceptron/assets/94508142/de4a01db-4418-44b6-bbc0-ec08d56bf6ab)
+
 
 ### Error Plot:
 ![image](https://github.com/Shobika187/Experiment-2--Implementation-of-Perceptron/assets/94508142/e61a6323-5ac5-495a-a0e5-d1f34ec15111)
