@@ -24,7 +24,10 @@ Indeed if the neuron output is exactly zero it cannot be assumed that the sample
 
 
 ## ALGORITHM:
+
 Importing the libraries
+
+
 Importing the dataset
 Plot the data to verify the linear separable dataset and consider only two classes
 Convert the data set to scale the data to uniform range by using Feature scaling
